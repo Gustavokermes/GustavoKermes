@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Henrique;I'm+19+years+old;I'm+from+Brazil;I+Graduated+computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustavokermes&bg_color=0d1117&color=FF0000&line=FF0000&point=00008B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustavokermes&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -13,8 +13,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gustavokermes&show_icons=true&count_private=true&hide_border=true&title_color=00008B&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavokermes&layout=compact&hide_border=true&title_color=00008B&text_color=00008B&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gustavokermes&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavokermes&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0d1117" />
 </div>
 
 
