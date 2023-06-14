@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Henrique;I'm+19+years+old;I'm+from+Brazil;I+Graduated+computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Henrique;I'm+19+years+old;I'm+from+Brazil;I+Graduated+computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioReis&bg_color=0d1117&color=00008B&line=00008B&point=00008B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustavokermes&bg_color=0d1117&color=FF0000&line=FF0000&point=00008B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -23,22 +23,22 @@
   <a href = "mailto:gustavohenrique.kermess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  
  ### Main skills:
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00008B)&nbsp;
-![PYTHON](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00008B)&nbsp;
-![QTCreator](https://img.shields.io/badge/QTCreator-0D1117.svg?style=for-the-badge&logo=Qt&logoColor=00008B)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000)&nbsp;
+![PYTHON](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF0000)&nbsp;
+![QTCreator](https://img.shields.io/badge/QTCreator-0D1117.svg?style=for-the-badge&logo=Qt&logoColor=FF0000)&nbsp;
 
 
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=00008B)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=00008B)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-0D1117.svg?style=for-the-badge&logo=HTML5&logoColor=00008B)&nbsp;
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=00008B)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=FF0000)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=FF0000)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-0D1117.svg?style=for-the-badge&logo=HTML5&logoColor=FF0000)&nbsp;
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=FF0000)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SavioReis}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gustavokermes}/count.svg" /></p> 
 <br>
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
