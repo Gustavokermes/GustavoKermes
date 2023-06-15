@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-![Flamengo Dança GIF - Flamengo Dança Ony - Discover   Share GIFs](https://github.com/Gustavokermes/GustavoKermes/assets/123910054/58376b3a-33b9-44d3-9836-da319bde3fd0)
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Henrique;I'm+19+years+old;I'm+from+Brazil;I+Graduated+computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -41,6 +42,9 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gustavokermes}/count.svg" /></p> 
 <br>
 </div>
-
+    
+<div align="center">
+<img src="https://github.com/Gustavokermes/GustavoKermes/assets/123910054/58376b3a-33b9-44d3-9836-da319bde3fd0" width="300px" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
